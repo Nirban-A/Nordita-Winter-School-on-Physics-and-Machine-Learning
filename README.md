@@ -4,7 +4,7 @@ This repo will contain the materials covered in the 2025 Nordita Winter School o
 
 School's homepage at: https://indico.fysik.su.se/event/8856/
 
-List of topics (preliminary)
+### List of topics (preliminary)
 - Statistical physics of learning
 - Generative modeling
 - Reinforcement learning
